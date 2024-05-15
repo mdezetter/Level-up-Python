@@ -11,4 +11,6 @@ Challenge 3
     Create a function that sorts a string alphabetically regardless of capitalization.
 
 Challenge 4
-    
+    Create a function that indexes a list.
+
+Challenge 5
